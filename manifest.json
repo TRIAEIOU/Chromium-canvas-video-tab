@@ -7,8 +7,7 @@
     {
       "matches": [
         "https://*.instructure.com/*",
-        "https://*.kaltura.nordu.net/*",
-        "https://*.ki.se/*"
+        "https://*.kaltura.nordu.net/*"
       ],
       "all_frames": true,
       "js": ["content.js"]
